@@ -52,3 +52,5 @@ Prodi: D3-MI
 ![Screenshot GridView](img/21_gridview.png)
 
 ## Praktikum 1 Membuat UI Sederhana
+![Screenshot Praktikum](img/praktikum_1.png)
+![Screenshot Praktikum](img/praktikum_2.png)
